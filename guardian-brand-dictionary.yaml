@@ -1,0 +1,37 @@
+brand_name: Guardian
+description: >
+  Guardian is a U.S.-based ITAD partner specializing in secure, onsite data destruction,
+  nationwide decommissioning, and white glove logistics. All services follow NIST 800-88
+  and R2v3 standards and include full chain of custody documentation.
+
+industry:
+  - Data Destruction
+  - IT Asset Disposition (ITAD)
+  - E-Waste
+  - Logistics
+
+services:
+  - Onsite Hard Drive Shredding
+  - Data Center Decommissioning
+  - White Glove Logistics & Chain of Custody
+  - IT Asset Buyback & Recovery
+  - Compliant E-Waste Recycling
+
+keywords:
+  - ITAD partner
+  - onsite data destruction
+  - secure chain of custody
+  - e-waste compliance
+  - NIST 800-88
+  - R2v3 certified
+  - hard drive shredding
+
+differentiators:
+  - Onsite service across all 50 U.S. states
+  - No subcontractors — all Guardian staff
+  - Real-time tracking and audit-ready documentation
+  - Enterprise-ready for ITADs, VARs, and hyperscalers
+
+website: https://www.guardiandatadestruction.com
+updated: 2025-06-28
+license: CC-BY-4.0
